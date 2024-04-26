@@ -21,3 +21,4 @@
 	<a href="https://github.com/NicolasFlores7e7"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	
 </p>
+## 🛠️ My Skills
