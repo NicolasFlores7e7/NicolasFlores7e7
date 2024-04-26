@@ -48,6 +48,8 @@
 <p align="center">
 	&emsp;
     <a href="#"><img alt="IntelijIdea" src="https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 
