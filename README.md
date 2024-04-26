@@ -7,7 +7,7 @@
 
 <br><br>
 
-- :school: I am currently studying at [Institut Tecnológic Barcelona](https://itb.cat).
+- :school: I am currently studying at [Institut Tecnológic Barcelona](https://itb.cat).https://kotlinlang.org/
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am learning to be a good programmer at `Kotlin`, `Java`, `Javascript`.
 - :student: I’m currently learning `Cross-Platform App Development`.
@@ -40,10 +40,6 @@
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
 
