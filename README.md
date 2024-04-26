@@ -15,6 +15,6 @@
 - :computer: I am learning to be a good programmer at `Kotlin`, `Java`, `Javascript`.
 - :student: I’m currently learning `Cross-Platform App Development`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a `internship`, this is [MY RESUME](https://drive.google.com/file/d/1lPMXef_TpwK3ksL0cm2nt13_Ivk0C5zB/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
