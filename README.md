@@ -11,7 +11,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am learning to be a good programmer at `Kotlin`, `Java`, `Javascript`.
 - :student: I’m currently learning `Cross-Platform App Development`.
-- :nerd_face: Always `learning new things`.
+- :nerd_face: Always trying to `learning new things`.
 - :thinking: I’m currently open for a `internship`, this is [MY RESUME](https://drive.google.com/file/d/1lPMXef_TpwK3ksL0cm2nt13_Ivk0C5zB/view?usp=sharing).
 <br>
 
