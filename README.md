@@ -7,7 +7,7 @@
 
 <br><br>
 
-- :school: I am currently studying at [Institut Tecnológic Barcelona](https://itb.cat).https://kotlinlang.org/
+- :school: I am currently studying at [Institut Tecnológic Barcelona](https://itb.cat)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am learning to be a good programmer at `Kotlin`, `Java`, `Javascript`.
 - :student: I’m currently learning `Cross-Platform App Development`.
