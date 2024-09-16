@@ -12,7 +12,7 @@
 - :computer: I’m learning to be a good programmer at `Kotlin`, `Java`, `Javascript`.
 - :student: I’m currently learning `Cross-Platform App Development`.
 - :nerd_face: Always trying to `learning new things`.
-- :thinking: I’m currently on an `internship` at Active Bussines & Technology, this is [MY RESUME](https://drive.google.com/file/d/1lPMXef_TpwK3ksL0cm2nt13_Ivk0C5zB/view?usp=sharing).
+- :thinking: I’m currently on an `internship` at Active Business & Technology, this is [MY RESUME](https://drive.google.com/file/d/1lPMXef_TpwK3ksL0cm2nt13_Ivk0C5zB/view?usp=sharing).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
